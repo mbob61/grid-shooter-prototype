@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf74b0a653a934376be3dd27c77042f7, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objects:
+  - <Name>k__BackingField: 1x1
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 4247265999832205656, guid: bad9b9fd05a3f4a24ad3da93b65631e6,
+      type: 3}
+  - <Name>k__BackingField: 2x1
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 8168715707335537261, guid: 23c0ff4b337114d709fea835ee0a1261,
+      type: 3}
+  - <Name>k__BackingField: 2x2
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 4942174946335662512, guid: 1786ec2d5834c42d2aae977ffd05dd55,
+      type: 3}
+  - <Name>k__BackingField: Floor
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 7779874290970194888, guid: 653f6e57606224c5ea7c801d1900c1de,
+      type: 3}
